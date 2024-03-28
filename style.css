@@ -247,7 +247,7 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/assets/bali.jpeg');
+    background-image: url('bali.jpeg');
     background-size: cover;
     background-position: center;
     filter: blur(1px);
@@ -260,7 +260,7 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/assets/jogja2.jpg');
+    background-image: url('jogja2.jpg');
     background-size: cover;
     background-position: center;
     filter: blur(1px);
@@ -272,7 +272,7 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/assets/bandung2.jpg');
+    background-image: url('bandung2.jpg');
     background-size: cover;
     background-position: center;
     filter: blur(1px);
@@ -285,7 +285,7 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/assets/toba.jpeg');
+    background-image: url('toba.jpeg');
     background-size: cover;
     background-position: center;
     filter: blur(1px);
@@ -297,7 +297,7 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/assets/malang.jpg');
+    background-image: url('malang.jpg');
     background-size: cover;
     background-position: center;
     filter: blur(1px);
@@ -310,7 +310,7 @@ hr {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('/assets/aceh.jpg');
+    background-image: url('aceh.jpg');
     background-size: cover;
     background-position: center;
     filter: blur(1px);
